@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>ES-VENTURE- WEBSITE</title>
+</head>
+<body>
+    <section class="header">
+        <nav>
+            <a href="index.html"> 
+                <img src="./images/logo.png" alt="">
+            </a>
+
+            <div class="nav-links">
+                <ul>
+                    <li><a href="">HOME</a></li>
+                    <li><a href="">ABOUT</a></li>
+                    <li><a href="">IMPACT</a></li>
+                    <li><a href="">EVENTS</a></li>
+
+                    <button class="contact-btn"> Contact us </button>
+                    <button class="donate-btn"> Donate </button>
+                </ul>
+            </div>
+        </nav>
+
+        <div class="hero-text">
+            <h1> Enhancing <span> Potential,</span> 
+                       <br> Building a <span>  Better World"  </span></h1>
+
+            <a href="" class="hero-btn"> Know More</a>
+        </div>
+    </section>
+
+    <section class="impact-section">
+        <div class="impact-img">
+            <img src="./images/Group new.png" alt="">
+        </div>   
+        
+        <div class="impact-content">
+            <h2> A Legacy of Impact and Leadership</h2>
+            <p>Since its founding, ES International has been committed to raising leaders, empowering young people, and transforming communities through education, volunteerism, and social impact projects. What started as a small student initiative has grown into a global movement with chapters across schools and communities, nurturing the next generation of changemakers.</p>
+        </div>
+    </section>
+</body>
+</html>
